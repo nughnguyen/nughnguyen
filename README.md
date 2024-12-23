@@ -62,11 +62,14 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nughnguyen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
+<hr/>
+<h2 align="center">😎 Random Quotes 😎</h2><br>
+<div align=center>
+    <img width=523 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random quotes"/>
+</div>
 <hr/>
 
+<h2 align="center">💸Donate Here !💸</h2>
 <br/>
 
 <div align="center">
