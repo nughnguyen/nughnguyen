@@ -67,10 +67,11 @@
 
 <hr/>
 
+<h2 align="center">Buy Me a Coffee by banking</h2>
 <br/>
 
 <div align="center">
-<a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='/images/QR.png' border='0' alt='Buy Me a Coffee by banking' /></a>
+<a href='#' target='_blank'><img height='768' style='border:0px;height:768px;' src='/images/QR.png' border='10' alt='Buy Me a Coffee by banking' /></a>
 </div>
 
 <br/>
