@@ -27,7 +27,7 @@
   <a href="https://www.facebook.com/hungnq188.2k5" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="https://nughnguyen.github.io" target="_blank">
+  <a href="https://www.youtube.com/@nughnguyen" target="_blank">
      <img src="https://img.shields.io/badge/Youtube-FF5722?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
