@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://camo.githubusercontent.com/029c97881b747d79b31ff9d42b5babc20ac7590dddbb6fbdd520c293e30ad528/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d6e7567686e677579656e267468656d653d636172626f6e666f7826626f726465725f7261646975733d313026646174655f666f726d61743d4d2532306a25354225324325323059253544" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=nughnguyen&theme=carbonfox&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nughnguyen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nughnguyen&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
