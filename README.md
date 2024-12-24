@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=nughnguyen&theme=radical&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nughnguyen&show_icons=true&theme=radical&border_radius=10&rank_icon=github" alt="readme stats" />
+  <img width=390 src="https://camo.githubusercontent.com/d22da5677370e48fbea92613c8900c97e8de9e50b2cd007cdd60c32f096c0153/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d6e7567686e677579656e267468656d653d7261646963616c26626f726465725f7261646975733d3130" alt="streak stats"/>
+  <img width=390 src="https://camo.githubusercontent.com/2fa5148df11c4127a9ce3404719e96f54360700f94be76c29ef0da8073d6984b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e7567686e677579656e2673686f775f69636f6e733d74727565267468656d653d7261646963616c26626f726465725f7261646975733d31302672616e6b5f69636f6e3d676974687562" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nughnguyen&theme=radical&border_radius=10" alt="top langs" />
+  <img width=325 align="center" src="https://camo.githubusercontent.com/c9caa326a0e9144c151974dcfa368179b8f55a054442a364e07acefe4e620780/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e7567686e677579656e267468656d653d7261646963616c26626f726465725f7261646975733d3130" alt="top langs" />
 </div>
 <hr/>
 <h2 align="center">😎 Random Quotes 😎</h2><br>
