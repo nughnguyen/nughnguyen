@@ -59,13 +59,13 @@
   <img width=325 align="center" src="https://camo.githubusercontent.com/c9caa326a0e9144c151974dcfa368179b8f55a054442a364e07acefe4e620780/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e7567686e677579656e267468656d653d7261646963616c26626f726465725f7261646975733d3130" alt="top langs" />
 </div>
 <hr/>
-<h2 align="center">😎 Random Quotes 😎</h2><br>
+<!-- <h2 align="center">😎 Random Quotes 😎</h2><br>
 <div align=center>
     <img width=523 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random quotes"/>
 </div>
-<hr/>
+<hr/> -->
 
-<h2 align="center">💸Donate Here !💸</h2>
+<h2 align="center">💸You Can Donate Me Here !💸</h2>
 <br/>
 
 <div align="center">
