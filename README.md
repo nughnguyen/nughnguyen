@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **EIU**
+ 🔭 I’m currently studying at **Eastern International University - EIU**
 
-💬 My socials link [here](https://guns.lol/nguyenquochung)**
+💬 My socials link **[here](https://guns.lol/nguyenquochung)**
 
  </div>
  
