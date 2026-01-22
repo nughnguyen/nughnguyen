@@ -47,7 +47,7 @@
 ##⚡ Stats ⚡
 <br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nughnguyen&theme=dracula&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_current_streak=true)]
+  <img src="https://streak-stats.demolab.com?user=nughnguyen&theme=dracula&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" />
   <img width=390 src="https://camo.githubusercontent.com/2fa5148df11c4127a9ce3404719e96f54360700f94be76c29ef0da8073d6984b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e7567686e677579656e2673686f775f69636f6e733d74727565267468656d653d7261646963616c26626f726465725f7261646975733d31302672616e6b5f69636f6e3d676974687562" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://camo.githubusercontent.com/c9caa326a0e9144c151974dcfa368179b8f55a054442a364e07acefe4e620780/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e7567686e677579656e267468656d653d7261646963616c26626f726465725f7261646975733d3130" alt="top langs" />
