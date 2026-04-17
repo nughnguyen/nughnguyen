@@ -47,7 +47,7 @@
 ## ⚡ Stats ⚡
 <br>
 
-  <img src="https://streak-stats.demolab.com?user=nughnguyen&theme=dracula&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=nughnguyen&theme=dracula&border_radius=20&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" />
  
 
 <hr/>
